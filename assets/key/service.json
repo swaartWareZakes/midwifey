@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jabudev-hjmjnj",
+  "private_key_id": "8cee0ee9e4dfad017c99a616166a7d2bacbee318",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkc9ARtjd/J4WG\nlDUycS8ttagv45VZeJIiWoceCpnXKp2LOOIxOWMKiLXKlTubT8+IFFMAkexVw4te\nQk5TehNRbJ9n7/KgyO9ODqDCUg8//AXzjS6GwWkuY1/JS0W4lU5pHUQ5a6OAfFfn\nOZanZ321vAVq100V4+gueK4HHjPCY056dff0zx/4aNOFQ3Avm9Qfa04cnP8FybK5\nFSQfnmgr5L7T79RkPaZCj72/QUAAqpI4fiDnMyiSHEWnHikoaAE+J4aiPdOG0SPk\nhLROQHaAgOHPJw14kRp0LEuwt3hFo7+AV8n3n+tbyzKTSCkYPeYIqcuT/Mj813mB\nZ1t76tLRAgMBAAECggEAB9taSr+rqEPKsuq5nZVqQAhl3BSHB2KwX/tMFCDvXNK1\n+wI7+PGUBttlYg5zWKt9ZQk24PgCdE4sG6lWetGs2Bmfhl9LS9K7GiiD64dw9T6K\nHerLblfnDva49hHw/LgHamlh9SNXHlWdJoMqFzPlfeKugz5SOhRCJ2w6a5p4tcCm\nDOytHV2p/ulrRf1TcqlO/9mrHeTAK21Y8ga2Pg4T7955L9i8RSzrAiF0kyeTXOH6\nXU9kUGbiprZ3EB9QsgiJe6gW029FdvBubheaoPXlhL9hJ5EWAvp02W/M8WMUUl5V\nlDBGAZXGUfVBubcgOgEOhy+UzT6jxlldfnrUX+1a5QKBgQDXQ8YnOqAnQFpOlid9\nlsGYomPSYloKomZgAi46zBuFQXPV8TEZeUEDArfBjlKRREzgHkUaYhNwgEbZhW/x\nabNVp4CtFtsPH0PBCEa/pPdwwN77NenJ8Vg2BMYVQxAstlTXEXoTmfdLpw9XO1Og\nxojkwmBEwv9W2ABtXO+1XzeuLQKBgQDDkn/RipwlsCPDDy21X3SxVWp/lfF9CXTb\ni3QlGwr4nS80F9kmWGbLwgYG5I/vF4BgTC9XHLgtnr7sJDYh/s0FIMYja5YmBDwp\nIOCgyjEhKuP6dQ3Zht7cSAviL4pqoFlz3FXgyLcVNFzuXLBlennJfK0uM6xfIOys\nIIQyiuiBtQKBgGpc5IXxo7yBQZ3e93hIizPd2TDUw+TJRYhey3Tl8Rswsgmd+UK6\n9PKF30HWDtoUQ1/h1QcqOqy11UwZcKx6K9BAyYW861RXgGTasAp1eoXN5t99Th0o\nEQvv4+gRkOZm2RjDW+xfgR9yVlQlzjZ8optVp7eSGhRQ+jUPXKnjeGGpAoGBAIPh\nrLP/BqEbkGIfQDGIt0ZGVVTIJlqtH9JUzfOfstxIEubMFjEXd+p7YlkPlEgkzvsh\nJONXiJOq8xCGssJl8pc8rKCCEnR8cp1BgHitIEg/hhEFElvX6T0ekHTsniidDPVm\nZbr5Xwy7jNdoRcOIvcuzeY0oZ1qW90JzgvIaXgPpAoGAEsDLpUuxuLUI0pL7QtgK\n8mqwzs7Ox4I/H18N3EAwxwoJ3S/DWTsNey0VGRyg8Erjk+9mEIpJw1kbmBB/77aV\npTS4YXqhBRdOTQfIrGLaeeO3y/F+sJFgTnkkbG3gyq6t6rRPgG6PvxYvuAkvNjkC\nMw5RC5X1gs2GMxJiPVvWvPY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mymidwife@jabudev-hjmjnj.iam.gserviceaccount.com",
+  "client_id": "107225422014808441796",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mymidwife%40jabudev-hjmjnj.iam.gserviceaccount.com"
+}
